@@ -1,1 +1,22 @@
+I Learned lot While reading tutorial on AI
 
+1) The development of AI is possible in two categories- programming, and engineering. Proper coordination between these two leads to developing AI-enabled products, 
+like speech recognition technologies. AI is at its growth stage right now.
+
+2) AI has heavily influenced different sectors that we may not recognize. Ray Kurzweil says “Many thousands of AI applications are deeply embedded 
+in the infrastructure of every industry.” John McCarthy, one of the founders of AI, once said that “as soon as it works, no one calls it AI anymore.”
+
+It is undeniably true that someday, AI will replace a lot of jobs that humans do, as well as it will create many and different job opportunities 
+in related fields. In order to be in the loop, everyone must have at least some information regarding AI.
+The information regarding the AADHAR Cards of Indian citizens can be an example of big data. The posts that we like, view, share, or comment on
+Facebook are also an example of big data. AI has enabled programs to analyze trends in these data and act accordingly.
+
+Farmlogs are software that simplifies the work of farmers by providing them information about the weather, fields, and soil. It is also helping
+them track irregular plant growth. This is helping them in achieving better profits.
+
+I learn about BOT:-
+A BOT is the most basic example of a weak AI that can do automated tasks on your behalf. Chatbots were one of the first automated
+programs to be called “bots.” You need AI and ML for your chatbots. Web crawlers used by Search Engines like Google are a perfect example of a sophisticated and advanced BOT.
+a) xpath – This will help you to inspect and target HTML and build your bot from what you see there.
+b) regex – This will help you to process the data you feed your bot by cleaning up or targeting (or both) the parts that matter to your logic.
+c) REST – This is really important as you will eventually work with APIs. You can use requests to do this.
